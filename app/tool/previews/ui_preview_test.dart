@@ -24,6 +24,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:xmppgram/ui/message_bubble.dart';
+import 'package:xmppgram/ui/unread.dart';
 import 'package:xmppgram/ui/theme.dart';
 
 const _previewDir = 'build/ui-previews';
