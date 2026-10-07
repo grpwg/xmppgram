@@ -1,0 +1,9 @@
+[submodule "packages/omemo_dart"]
+	path = packages/omemo_dart
+	url = https://github.com/grpwg/omemo_dart
+[submodule "packages/moxxmpp"]
+	path = packages/moxxmpp
+	url = https://github.com/grpwg/moxxmpp
+[submodule "packages/moxlib"]
+	path = packages/moxlib
+	url = https://github.com/grpwg/moxlib
