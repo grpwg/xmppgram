@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=xmppgram
+GenericName=XMPP Client
+Comment=XMPP client with dual-track OMEMO (standard + post-quantum)
+Exec=xmppgram
+Icon=xmppgram
+Terminal=false
+Categories=Network;InstantMessaging;Chat;
+StartupWMClass=xmppgram
+Keywords=XMPP;OMEMO;chat;messaging;
+SingleMainWindow=true
