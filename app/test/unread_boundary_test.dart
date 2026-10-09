@@ -14,7 +14,7 @@ import 'package:drift/drift.dart' show Value;
 import 'package:drift/native.dart';
 import 'package:test/test.dart';
 import 'package:xmppgram/store/database.dart';
-import 'package:xmppgram/ui/unread.dart';
+import 'package:xmppgram/ui/chats/unread.dart';
 
 void main() {
   group('the boundary is a position in the transcript, not a count', () {

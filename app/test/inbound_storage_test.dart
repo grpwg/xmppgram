@@ -16,7 +16,7 @@ import 'package:moxxmpp/moxxmpp.dart';
 import 'package:xmppgram/omemo/track.dart';
 import 'package:xmppgram/state/app_wiring.dart';
 import 'package:xmppgram/store/database.dart';
-import 'package:xmppgram/ui/chats_page.dart';
+import 'package:xmppgram/ui/chats/chats_viewmodel.dart';
 import 'package:xmppgram/xmpp/connection.dart';
 
 void main() {

@@ -12,7 +12,7 @@ import 'package:drift/native.dart';
 import 'package:flutter/material.dart';
 import 'package:test/test.dart';
 import 'package:xmppgram/store/database.dart';
-import 'package:xmppgram/ui/appearance.dart';
+import 'package:xmppgram/utils/appearance.dart';
 
 void main() {
   group('encoding', () {

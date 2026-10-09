@@ -10,7 +10,7 @@
 // lists staying genuinely different from each other.
 
 import 'package:test/test.dart';
-import 'package:xmppgram/ui/emoji_data.dart';
+import 'package:xmppgram/utils/emoji_data.dart';
 
 void main() {
   group('every tab has something in it', () {
