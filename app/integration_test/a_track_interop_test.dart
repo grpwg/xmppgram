@@ -18,10 +18,10 @@ import 'package:integration_test/integration_test.dart';
 import 'package:logging/logging.dart';
 import 'package:moxxmpp/moxxmpp.dart';
 import 'package:omemo_dart/omemo_dart_axolotl.dart' show AxolotlBundle;
-import 'package:xmppgram/omemo/track.dart';
+import 'package:xmppgram/crypto/omemo/track.dart';
 import 'package:xmppgram/xmpp/capabilities.dart';
-import 'package:xmppgram/omemo/defacto.dart';
-import 'package:xmppgram/omemo/dual_track_manager.dart';
+import 'package:xmppgram/crypto/omemo/defacto.dart';
+import 'package:xmppgram/crypto/omemo/dual_track_manager.dart';
 import 'package:xml/xml.dart';
 import 'package:xmppgram/xmpp/connection.dart';
 

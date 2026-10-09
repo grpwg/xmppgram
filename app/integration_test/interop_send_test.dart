@@ -18,8 +18,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 import 'package:logging/logging.dart';
 import 'package:moxxmpp/moxxmpp.dart';
-import 'package:xmppgram/omemo/track.dart';
-import 'package:xmppgram/omemo/dual_track_manager.dart';
+import 'package:xmppgram/crypto/omemo/track.dart';
+import 'package:xmppgram/crypto/omemo/dual_track_manager.dart';
 import 'package:xmppgram/xmpp/connection.dart';
 
 void main() {

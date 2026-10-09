@@ -19,13 +19,13 @@ import 'package:logging/logging.dart';
 import 'package:moxxmpp/moxxmpp.dart';
 import 'package:moxxmpp_socket_tcp/moxxmpp_socket_tcp.dart';
 import 'package:xml/xml.dart';
-import 'package:xmppgram/omemo/bundle_codec.dart';
-import 'package:xmppgram/omemo/dual_track_manager.dart';
-import 'package:xmppgram/omemo/message_codec.dart';
-import 'package:xmppgram/omemo/pq_message_layer.dart';
-import 'package:xmppgram/omemo/pq_session.dart';
-import 'package:xmppgram/omemo/protocol.dart';
-import 'package:xmppgram/pq/liboqs_mlkem.dart';
+import 'package:xmppgram/crypto/omemo/bundle_codec.dart';
+import 'package:xmppgram/crypto/omemo/dual_track_manager.dart';
+import 'package:xmppgram/crypto/omemo/message_codec.dart';
+import 'package:xmppgram/crypto/omemo/pq_message_layer.dart';
+import 'package:xmppgram/crypto/omemo/pq_session.dart';
+import 'package:xmppgram/crypto/omemo/protocol.dart';
+import 'package:xmppgram/crypto/pq/liboqs_mlkem.dart';
 
 /// Number of failed checks; module-level so [finish] can report it from
 /// the `finally` block.
